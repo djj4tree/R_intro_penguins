@@ -10,6 +10,13 @@
 library(ggplot2)  # for making figures
 library(palmerpenguins) # for the data
 
+# First thing to do is load the data into the session
+# the library already loads the data in but I am going to
+# shorten the name to avoid misspelling penquin
+
+pen <- penguins
+
+# explore the data
 
 
 
